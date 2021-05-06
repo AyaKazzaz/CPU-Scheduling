@@ -4,7 +4,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
-//Aya Kazzaz,Hadeel aloufi,Salwa Abbara,Mona Hafez,Aisha Baskran,windows10,version1909(OS Build 18363.1256)
+
 //processor:Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz 2.00 GHz
 //Installed memory(RAM): 8.00 GB(7.90 GB usable)
 //compiler name and version:java version "1.8.0_191" ,Java(TM) SE Runtime Environment
